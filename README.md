@@ -1,10 +1,12 @@
 # python-calculator
 my first project, built while learning python
 
+## What it does
 the calculator does arithmetic and powers, and removes the extra '.0' for whole numbers
 
 to run it you got to enter the first number, then the sign (till now, it only includes +, -, *, /, ** ,but I will update it), then the second value
 
+## In the future
 Planning to add 4 more features, they are:
 
  - Make the user input one input and use split()
