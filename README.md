@@ -16,7 +16,7 @@ for roots, you would type sqr then the number, for example sqr 4 would give an o
 
 typing something that isn't a number crashes it for now, but I will fix it later
 
-You can use English instead of signs, so 2 plus (or add) 5 times (or multiply) 5 is the same as 2 + 5 * 5, as long as there a space after each number or sign
+You can use English instead of signs, so 2 plus (or add) 5 times (or multiply) 5 is the same as 2 + 5 * 5, as long as there is a space after each number or sign
 
 ## In the future
 Planning to add 2 features:
