@@ -21,5 +21,5 @@ You can use English instead of signs, so 2 plus (or add) 5 times (or multiply) 5
 ## In the future
 Planning to add 2 features:
 
- - Allow an infinite amount of equations in one problem
- - Use order of operations correctly
+ - Allow an infinite amount of equations in one input
+ - Use the correct order of operations
